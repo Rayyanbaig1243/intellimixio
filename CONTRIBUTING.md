@@ -1,4 +1,4 @@
-## Contributing to intellimixio
+# Contributing to intellimixio
 
 First off, thanks for taking the time to contribute! ❤️
 
